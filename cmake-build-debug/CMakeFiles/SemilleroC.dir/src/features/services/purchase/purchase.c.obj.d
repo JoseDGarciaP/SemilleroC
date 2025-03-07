@@ -1,5 +1,5 @@
 CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.obj: \
- C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\purchase\purchase.c \
+ C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\purchase\purchase.c \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.4/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.4/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.4/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
@@ -28,4 +28,4 @@ CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.4/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.4/bin/mingw/x86_64-w64-mingw32/include/_timeval.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.4/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h \
- C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\purchase\purchase.h
+ C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\purchase\purchase.h

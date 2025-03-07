@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/wposs/CLionProjects/SemilleroC/cmake-build-debug"
+			"value" : "c:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/wposs/CLionProjects/SemilleroC/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -487,7 +487,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/wposs/CLionProjects/SemilleroC"
+			"value" : "C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -531,7 +531,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe"
+			"value" : "C:/PROGRA~1/JetBrains/CLion 2024.3.4/bin/mingw/bin/mingw32-make.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1123,7 +1123,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/wposs/CLionProjects/SemilleroC/cmake-build-debug"
+			"value" : "C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/cmake-build-debug"
 		},
 		{
 			"name" : "SemilleroC_IS_TOP_LEVEL",
@@ -1147,7 +1147,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/wposs/CLionProjects/SemilleroC"
+			"value" : "C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

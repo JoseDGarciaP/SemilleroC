@@ -1,5 +1,5 @@
 CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.obj: \
- C:\Users\wposs\CLionProjects\SemilleroC\src\features\menu\menu.c \
+ C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\menu\menu.c \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.4/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.4/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.4/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
@@ -273,11 +273,11 @@ CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.4/bin/mingw/x86_64-w64-mingw32/include/mcx.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.4/bin/mingw/x86_64-w64-mingw32/include/imm.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
- C:\Users\wposs\CLionProjects\SemilleroC\src\features\menu\menu.h \
- C:/Users/wposs/CLionProjects/SemilleroC/src/features/services/purchase/purchase.h \
- C:/Users/wposs/CLionProjects/SemilleroC/src/features/services/reprint/reprint.h \
- C:/Users/wposs/CLionProjects/SemilleroC/src/features/services/purchase/purchase.h \
- C:/Users/wposs/CLionProjects/SemilleroC/src/features/services/cancellation/cancellation.h \
- C:/Users/wposs/CLionProjects/SemilleroC/src/features/services/purchase/purchase.h \
- C:/Users/wposs/CLionProjects/SemilleroC/src/features/services/report/report.h \
- C:/Users/wposs/CLionProjects/SemilleroC/src/features/services/closing/closing.h
+ C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\menu\menu.h \
+ C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/services/purchase/purchase.h \
+ C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/services/reprint/reprint.h \
+ C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/services/purchase/purchase.h \
+ C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/services/cancellation/cancellation.h \
+ C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/services/purchase/purchase.h \
+ C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/services/report/report.h \
+ C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/services/closing/closing.h
