@@ -11,17 +11,27 @@
 #include "menu.h"
 #include "../services/purchase/purchase.h"
 #include "../services/reprint/reprint.h"
+#include "../services/cancellation/cancellation.h"
+#include "../services/report/report.h"
+#include "../services/closing/closing.h"
 
 /*
- *
+ * Menu principal para la llamada de los respectivos servicios solicitados por el usuario:
+ * 1-> Compra
+ * 2-> Anulacion
+ * 3-> Cierre
+ * 4-> Reimpresion
+ * 5-> Reporte de totales
+ * 6-> Salir (Para finalizar la ejecucion)
  */
+
 void menu() {
     short option; //Variable para el menu de opciones
     bool exit = false; //Salida del do-while
 
     do {
         printf(" ***** Menu *****\n\n");
-        printf(" Oprima la opcion deseada:\n");
+        printf(" Ingrese la opcion deseada:\n");
         printf(" 1. Compra\n");
         printf(" 2. Anulacion\n");
         printf(" 3. Cierre\n");
@@ -44,6 +54,7 @@ void menu() {
 
             case 2: //Anulacion
                 system("cls");
+                cancellation();
                 printf("Presiona cualquier tecla para continuar...\n");
                 getch();
                 system("cls");
@@ -59,7 +70,7 @@ void menu() {
             case 4: //Reimpresion
                 system("cls");
                 reprint_transactions();
-                printf("Presiona cualquier tecla para continuar...\n");
+                printf("\nPresiona cualquier tecla para continuar...\n");
                 getch();
                 system("cls");
                 break;

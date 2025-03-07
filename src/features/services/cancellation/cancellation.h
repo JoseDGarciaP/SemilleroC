@@ -4,5 +4,7 @@
 
 #ifndef CANCELLATION_H
 #define CANCELLATION_H
+#include "../purchase/purchase.h"
+
     void cancellation();
 #endif //CANCELLATION_H

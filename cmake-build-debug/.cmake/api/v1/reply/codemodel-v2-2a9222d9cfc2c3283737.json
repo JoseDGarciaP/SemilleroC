@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/cmake-build-debug",
-		"source" : "C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC"
+		"build" : "C:/Users/wposs/CLionProjects/SemilleroC/cmake-build-debug",
+		"source" : "C:/Users/wposs/CLionProjects/SemilleroC"
 	},
 	"version" : 
 	{

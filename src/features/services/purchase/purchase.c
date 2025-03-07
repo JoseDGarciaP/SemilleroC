@@ -11,7 +11,7 @@
 //Función para validar la fecha de expiración
 int validate_exp_date(const char *exp_date) {
     int month, year;
-    sscanf(exp_date, "%2d/%2d", &month, &year);
+    scanf(exp_date, "%2d/%2d", &month, &year);
 
     //Obtener la fecha actual
     time_t t = time(NULL);

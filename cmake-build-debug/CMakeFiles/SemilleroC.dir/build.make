@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2024.3.4\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC
+CMAKE_SOURCE_DIR = C:\Users\wposs\CLionProjects\SemilleroC
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\wposs\CLionProjects\SemilleroC\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/SemilleroC.dir/depend.make
@@ -69,102 +69,102 @@ include CMakeFiles/SemilleroC.dir/progress.make
 include CMakeFiles/SemilleroC.dir/flags.make
 
 CMakeFiles/SemilleroC.dir/src/main.c.obj: CMakeFiles/SemilleroC.dir/flags.make
-CMakeFiles/SemilleroC.dir/src/main.c.obj: C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/main.c
+CMakeFiles/SemilleroC.dir/src/main.c.obj: C:/Users/wposs/CLionProjects/SemilleroC/src/main.c
 CMakeFiles/SemilleroC.dir/src/main.c.obj: CMakeFiles/SemilleroC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/SemilleroC.dir/src/main.c.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/main.c.obj -MF CMakeFiles\SemilleroC.dir\src\main.c.obj.d -o CMakeFiles\SemilleroC.dir\src\main.c.obj -c C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\wposs\CLionProjects\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/SemilleroC.dir/src/main.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/main.c.obj -MF CMakeFiles\SemilleroC.dir\src\main.c.obj.d -o CMakeFiles\SemilleroC.dir\src\main.c.obj -c C:\Users\wposs\CLionProjects\SemilleroC\src\main.c
 
 CMakeFiles/SemilleroC.dir/src/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SemilleroC.dir/src/main.c.i"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\main.c > CMakeFiles\SemilleroC.dir\src\main.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\wposs\CLionProjects\SemilleroC\src\main.c > CMakeFiles\SemilleroC.dir\src\main.c.i
 
 CMakeFiles/SemilleroC.dir/src/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SemilleroC.dir/src/main.c.s"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\main.c -o CMakeFiles\SemilleroC.dir\src\main.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\wposs\CLionProjects\SemilleroC\src\main.c -o CMakeFiles\SemilleroC.dir\src\main.c.s
 
 CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.obj: CMakeFiles/SemilleroC.dir/flags.make
-CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.obj: C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/services/purchase/purchase.c
+CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.obj: C:/Users/wposs/CLionProjects/SemilleroC/src/features/services/purchase/purchase.c
 CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.obj: CMakeFiles/SemilleroC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.obj -MF CMakeFiles\SemilleroC.dir\src\features\services\purchase\purchase.c.obj.d -o CMakeFiles\SemilleroC.dir\src\features\services\purchase\purchase.c.obj -c C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\purchase\purchase.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\wposs\CLionProjects\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.obj -MF CMakeFiles\SemilleroC.dir\src\features\services\purchase\purchase.c.obj.d -o CMakeFiles\SemilleroC.dir\src\features\services\purchase\purchase.c.obj -c C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\purchase\purchase.c
 
 CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.i"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\purchase\purchase.c > CMakeFiles\SemilleroC.dir\src\features\services\purchase\purchase.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\purchase\purchase.c > CMakeFiles\SemilleroC.dir\src\features\services\purchase\purchase.c.i
 
 CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SemilleroC.dir/src/features/services/purchase/purchase.c.s"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\purchase\purchase.c -o CMakeFiles\SemilleroC.dir\src\features\services\purchase\purchase.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\purchase\purchase.c -o CMakeFiles\SemilleroC.dir\src\features\services\purchase\purchase.c.s
 
 CMakeFiles/SemilleroC.dir/src/features/services/closing/closing.c.obj: CMakeFiles/SemilleroC.dir/flags.make
-CMakeFiles/SemilleroC.dir/src/features/services/closing/closing.c.obj: C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/services/closing/closing.c
+CMakeFiles/SemilleroC.dir/src/features/services/closing/closing.c.obj: C:/Users/wposs/CLionProjects/SemilleroC/src/features/services/closing/closing.c
 CMakeFiles/SemilleroC.dir/src/features/services/closing/closing.c.obj: CMakeFiles/SemilleroC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/SemilleroC.dir/src/features/services/closing/closing.c.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/features/services/closing/closing.c.obj -MF CMakeFiles\SemilleroC.dir\src\features\services\closing\closing.c.obj.d -o CMakeFiles\SemilleroC.dir\src\features\services\closing\closing.c.obj -c C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\closing\closing.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\wposs\CLionProjects\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/SemilleroC.dir/src/features/services/closing/closing.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/features/services/closing/closing.c.obj -MF CMakeFiles\SemilleroC.dir\src\features\services\closing\closing.c.obj.d -o CMakeFiles\SemilleroC.dir\src\features\services\closing\closing.c.obj -c C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\closing\closing.c
 
 CMakeFiles/SemilleroC.dir/src/features/services/closing/closing.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SemilleroC.dir/src/features/services/closing/closing.c.i"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\closing\closing.c > CMakeFiles\SemilleroC.dir\src\features\services\closing\closing.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\closing\closing.c > CMakeFiles\SemilleroC.dir\src\features\services\closing\closing.c.i
 
 CMakeFiles/SemilleroC.dir/src/features/services/closing/closing.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SemilleroC.dir/src/features/services/closing/closing.c.s"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\closing\closing.c -o CMakeFiles\SemilleroC.dir\src\features\services\closing\closing.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\closing\closing.c -o CMakeFiles\SemilleroC.dir\src\features\services\closing\closing.c.s
 
 CMakeFiles/SemilleroC.dir/src/features/services/cancellation/cancellation.c.obj: CMakeFiles/SemilleroC.dir/flags.make
-CMakeFiles/SemilleroC.dir/src/features/services/cancellation/cancellation.c.obj: C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/services/cancellation/cancellation.c
+CMakeFiles/SemilleroC.dir/src/features/services/cancellation/cancellation.c.obj: C:/Users/wposs/CLionProjects/SemilleroC/src/features/services/cancellation/cancellation.c
 CMakeFiles/SemilleroC.dir/src/features/services/cancellation/cancellation.c.obj: CMakeFiles/SemilleroC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/SemilleroC.dir/src/features/services/cancellation/cancellation.c.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/features/services/cancellation/cancellation.c.obj -MF CMakeFiles\SemilleroC.dir\src\features\services\cancellation\cancellation.c.obj.d -o CMakeFiles\SemilleroC.dir\src\features\services\cancellation\cancellation.c.obj -c C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\cancellation\cancellation.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\wposs\CLionProjects\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/SemilleroC.dir/src/features/services/cancellation/cancellation.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/features/services/cancellation/cancellation.c.obj -MF CMakeFiles\SemilleroC.dir\src\features\services\cancellation\cancellation.c.obj.d -o CMakeFiles\SemilleroC.dir\src\features\services\cancellation\cancellation.c.obj -c C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\cancellation\cancellation.c
 
 CMakeFiles/SemilleroC.dir/src/features/services/cancellation/cancellation.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SemilleroC.dir/src/features/services/cancellation/cancellation.c.i"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\cancellation\cancellation.c > CMakeFiles\SemilleroC.dir\src\features\services\cancellation\cancellation.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\cancellation\cancellation.c > CMakeFiles\SemilleroC.dir\src\features\services\cancellation\cancellation.c.i
 
 CMakeFiles/SemilleroC.dir/src/features/services/cancellation/cancellation.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SemilleroC.dir/src/features/services/cancellation/cancellation.c.s"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\cancellation\cancellation.c -o CMakeFiles\SemilleroC.dir\src\features\services\cancellation\cancellation.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\cancellation\cancellation.c -o CMakeFiles\SemilleroC.dir\src\features\services\cancellation\cancellation.c.s
 
 CMakeFiles/SemilleroC.dir/src/features/services/report/report.c.obj: CMakeFiles/SemilleroC.dir/flags.make
-CMakeFiles/SemilleroC.dir/src/features/services/report/report.c.obj: C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/services/report/report.c
+CMakeFiles/SemilleroC.dir/src/features/services/report/report.c.obj: C:/Users/wposs/CLionProjects/SemilleroC/src/features/services/report/report.c
 CMakeFiles/SemilleroC.dir/src/features/services/report/report.c.obj: CMakeFiles/SemilleroC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/SemilleroC.dir/src/features/services/report/report.c.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/features/services/report/report.c.obj -MF CMakeFiles\SemilleroC.dir\src\features\services\report\report.c.obj.d -o CMakeFiles\SemilleroC.dir\src\features\services\report\report.c.obj -c C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\report\report.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\wposs\CLionProjects\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/SemilleroC.dir/src/features/services/report/report.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/features/services/report/report.c.obj -MF CMakeFiles\SemilleroC.dir\src\features\services\report\report.c.obj.d -o CMakeFiles\SemilleroC.dir\src\features\services\report\report.c.obj -c C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\report\report.c
 
 CMakeFiles/SemilleroC.dir/src/features/services/report/report.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SemilleroC.dir/src/features/services/report/report.c.i"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\report\report.c > CMakeFiles\SemilleroC.dir\src\features\services\report\report.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\report\report.c > CMakeFiles\SemilleroC.dir\src\features\services\report\report.c.i
 
 CMakeFiles/SemilleroC.dir/src/features/services/report/report.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SemilleroC.dir/src/features/services/report/report.c.s"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\report\report.c -o CMakeFiles\SemilleroC.dir\src\features\services\report\report.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\report\report.c -o CMakeFiles\SemilleroC.dir\src\features\services\report\report.c.s
 
 CMakeFiles/SemilleroC.dir/src/features/services/reprint/reprint.c.obj: CMakeFiles/SemilleroC.dir/flags.make
-CMakeFiles/SemilleroC.dir/src/features/services/reprint/reprint.c.obj: C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/services/reprint/reprint.c
+CMakeFiles/SemilleroC.dir/src/features/services/reprint/reprint.c.obj: C:/Users/wposs/CLionProjects/SemilleroC/src/features/services/reprint/reprint.c
 CMakeFiles/SemilleroC.dir/src/features/services/reprint/reprint.c.obj: CMakeFiles/SemilleroC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/SemilleroC.dir/src/features/services/reprint/reprint.c.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/features/services/reprint/reprint.c.obj -MF CMakeFiles\SemilleroC.dir\src\features\services\reprint\reprint.c.obj.d -o CMakeFiles\SemilleroC.dir\src\features\services\reprint\reprint.c.obj -c C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\reprint\reprint.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\wposs\CLionProjects\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/SemilleroC.dir/src/features/services/reprint/reprint.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/features/services/reprint/reprint.c.obj -MF CMakeFiles\SemilleroC.dir\src\features\services\reprint\reprint.c.obj.d -o CMakeFiles\SemilleroC.dir\src\features\services\reprint\reprint.c.obj -c C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\reprint\reprint.c
 
 CMakeFiles/SemilleroC.dir/src/features/services/reprint/reprint.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SemilleroC.dir/src/features/services/reprint/reprint.c.i"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\reprint\reprint.c > CMakeFiles\SemilleroC.dir\src\features\services\reprint\reprint.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\reprint\reprint.c > CMakeFiles\SemilleroC.dir\src\features\services\reprint\reprint.c.i
 
 CMakeFiles/SemilleroC.dir/src/features/services/reprint/reprint.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SemilleroC.dir/src/features/services/reprint/reprint.c.s"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\services\reprint\reprint.c -o CMakeFiles\SemilleroC.dir\src\features\services\reprint\reprint.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\wposs\CLionProjects\SemilleroC\src\features\services\reprint\reprint.c -o CMakeFiles\SemilleroC.dir\src\features\services\reprint\reprint.c.s
 
 CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.obj: CMakeFiles/SemilleroC.dir/flags.make
-CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.obj: C:/Users/josex/OneDrive/Desktop/WPOSS/SemilleroC/src/features/menu/menu.c
+CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.obj: C:/Users/wposs/CLionProjects/SemilleroC/src/features/menu/menu.c
 CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.obj: CMakeFiles/SemilleroC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.obj"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.obj -MF CMakeFiles\SemilleroC.dir\src\features\menu\menu.c.obj.d -o CMakeFiles\SemilleroC.dir\src\features\menu\menu.c.obj -c C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\menu\menu.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\wposs\CLionProjects\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.obj -MF CMakeFiles\SemilleroC.dir\src\features\menu\menu.c.obj.d -o CMakeFiles\SemilleroC.dir\src\features\menu\menu.c.obj -c C:\Users\wposs\CLionProjects\SemilleroC\src\features\menu\menu.c
 
 CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.i"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\menu\menu.c > CMakeFiles\SemilleroC.dir\src\features\menu\menu.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\wposs\CLionProjects\SemilleroC\src\features\menu\menu.c > CMakeFiles\SemilleroC.dir\src\features\menu\menu.c.i
 
 CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SemilleroC.dir/src/features/menu/menu.c.s"
-	"C:\PROGRA~1\JetBrains\CLion 2024.3.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\src\features\menu\menu.c -o CMakeFiles\SemilleroC.dir\src\features\menu\menu.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\wposs\CLionProjects\SemilleroC\src\features\menu\menu.c -o CMakeFiles\SemilleroC.dir\src\features\menu\menu.c.s
 
 # Object files for target SemilleroC
 SemilleroC_OBJECTS = \
@@ -190,7 +190,7 @@ SemilleroC.exe: CMakeFiles/SemilleroC.dir/build.make
 SemilleroC.exe: CMakeFiles/SemilleroC.dir/linkLibs.rsp
 SemilleroC.exe: CMakeFiles/SemilleroC.dir/objects1.rsp
 SemilleroC.exe: CMakeFiles/SemilleroC.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable SemilleroC.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\wposs\CLionProjects\SemilleroC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable SemilleroC.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SemilleroC.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -202,6 +202,6 @@ CMakeFiles/SemilleroC.dir/clean:
 .PHONY : CMakeFiles/SemilleroC.dir/clean
 
 CMakeFiles/SemilleroC.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\cmake-build-debug C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\cmake-build-debug C:\Users\josex\OneDrive\Desktop\WPOSS\SemilleroC\cmake-build-debug\CMakeFiles\SemilleroC.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\wposs\CLionProjects\SemilleroC C:\Users\wposs\CLionProjects\SemilleroC C:\Users\wposs\CLionProjects\SemilleroC\cmake-build-debug C:\Users\wposs\CLionProjects\SemilleroC\cmake-build-debug C:\Users\wposs\CLionProjects\SemilleroC\cmake-build-debug\CMakeFiles\SemilleroC.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/SemilleroC.dir/depend
 

@@ -4,7 +4,6 @@
 
 #include<stdio.h>
 
-
 #include "reprint.h"
 
 #include <string.h>
@@ -22,7 +21,7 @@ void reprint_transactions() {
 
     //Leer las transacciones en memoria
     while (fread(&transactions[count], sizeof(Transaction), 1, file) == 1) {
-        printf("Leída transacción %d con referencia: %d\n", count, transactions[count].reference);
+        printf("Leida transaccion %d con referencia: %d\n", count, transactions[count].reference);
         count++;
         if (count >= MAX_TRANSACTIONS) break;  //Evitar overflow
     }
@@ -35,6 +34,8 @@ void reprint_transactions() {
 
     //Imprimir en orden descendente
     printf("\n===== REIMPRESION DE TRANSACCIONES =====\n");
+    printf("Cantidad de transacciones actuales: %d \n\n", count);
+
     for (int i = count - 1; i >= 0; i--) {
         printf("Referencia: %d\n", transactions[i].reference);
 
