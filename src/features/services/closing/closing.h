@@ -4,5 +4,5 @@
 
 #ifndef CLOSING_H
 #define CLOSING_H
-
+    void closing();
 #endif //CLOSING_H

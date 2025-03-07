@@ -6,8 +6,11 @@
 #include<conio.h>
 #include<windows.h>
 #include <stdbool.h>
+#include <stdlib.h>
 
 #include "menu.h"
+#include "../services/purchase/purchase.h"
+#include "../services/reprint/reprint.h"
 
 /*
  *
@@ -28,11 +31,12 @@ void menu() {
 
         printf("Opcion selecionada: ");
         scanf("%hd", &option);
-        fflush(stdin);
+        while (getchar() != '\n');
 
         switch (option) {
             case 1: //Compra
                 system("cls");
+                purchase();
                 printf("Presiona cualquier tecla para continuar...\n");
                 getch();
                 system("cls");
@@ -54,6 +58,7 @@ void menu() {
 
             case 4: //Reimpresion
                 system("cls");
+                reprint_transactions();
                 printf("Presiona cualquier tecla para continuar...\n");
                 getch();
                 system("cls");
